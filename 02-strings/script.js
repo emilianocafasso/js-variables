@@ -8,8 +8,8 @@ console.log(name);
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 const number = 4
-const text = ("StringaPazza");
-const bool = (true); 
+const text = "StringaPazza"
+const bool = true; 
 console.log(number, text, bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
